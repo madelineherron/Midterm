@@ -9,6 +9,7 @@
   font-size: 10px;
   font-style: italic;
   text-align: center;
+  font-weight: bold;
 }
 
 body {
@@ -20,8 +21,9 @@ background-color: White;
 h1{
   font-style: normal;
   font: Georgia;
-  font-size: 22px;
+  font-size: 30px;
   color: white;
+  font-weight: bold;
 }
 
 h2{
@@ -34,4 +36,8 @@ p {
   font-style: normal;
   font: Helvetica Arial sans-serif;
   font-size: 12px;
+}
+
+.infographic {
+  align-content: center;
 }
