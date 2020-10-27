@@ -2,6 +2,12 @@
 .banner {
   padding: 15px;
   text-align: center;
+  background-color: navy;
+}
+
+#byline {
+  font-size: 10px;
+  font-style:italic;
 }
 
 body {
