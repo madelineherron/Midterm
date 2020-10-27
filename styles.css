@@ -18,12 +18,10 @@
 
 body {
 background-color: White;
-margin: auto;
 /*may change to light clue or faded red border*/
 }
 
 #pagewrapper {
-  margin: auto;
   columns: 1;
 } /*check back to see if this is what professor means*/
 
