@@ -18,12 +18,12 @@
 
 body {
 background-color: White;
-margin: auto;
+margin: 8px;
 /*may change to light clue or faded red border*/
 }
 
 #pagewrapper {
-  margin-right: auto;
+  margin: auto;
   columns: 1;
 } /*check back to see if this is what professor means*/
 
