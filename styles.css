@@ -26,6 +26,10 @@ background-color: White;
   columns: 1;
 }
 
+.pic1 {
+align-self: center;
+}
+
 h1{
   font-style: normal;
   font: Georgia;
