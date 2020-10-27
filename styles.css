@@ -17,8 +17,8 @@
 }
 
 body {
-background-color: White;
-margin-top: 100px;
+background-color: Ivory;
+margin-top: 50px;
   margin-bottom: 50px;
   margin-right: 150px;
   margin-left: 80px;
@@ -50,7 +50,7 @@ h2{
   font-family: serif;
   font: Georgia;
   font-size: 20px;
-  text-align: center;
+  text-align:left;
 } /*subheaders*/
 
 p {
@@ -63,6 +63,7 @@ p {
 h5{
   font-weight: bold;
   font-size: 10px;
+  text-align: center;
 } /*captions for pics*/
 
 #photo{
