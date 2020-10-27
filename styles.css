@@ -1,19 +1,28 @@
 
+head {
+  background-color: lightblue;
+}
 
 body {
-background-color: lightblue;
+background-color: White;
 
 }
 
 
 h1{
-  font-style:oblique;
+  font-style: normal;
+  font: Georgia;
+  font-size: 22px;
 }
 
 h2{
   font-style: italic;
+  font: Georgia;
+  font-size: 16px;
 }
 
 p {
   font-style: normal;
+  font: Helvetica Arial sans-serif;
+  font-size: 12px;
 }
