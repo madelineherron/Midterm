@@ -26,7 +26,7 @@ h1{
   font-style: normal;
   font: Georgia;
   font-size: 30px;
-  color: white;
+  color: Black;
   font-weight: bold;
 }
 
@@ -47,7 +47,7 @@ h5{
 }
 
 .photo{
-  align-items: center;
+  align-content: center;
 }
 
 .infographic {
