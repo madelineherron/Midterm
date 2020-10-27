@@ -5,6 +5,10 @@
   background-color: navy;
 }
 
+.banner-content {
+  background-color: white;
+}
+
 #byline {
   font-size: 10px;
   font-style: italic;
@@ -36,6 +40,10 @@ p {
   font-style: normal;
   font: Helvetica Arial sans-serif;
   font-size: 12px;
+}
+
+h5{
+  
 }
 
 .infographic {
