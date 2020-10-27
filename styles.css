@@ -43,7 +43,11 @@ p {
 }
 
 h5{
-  
+  font-weight: bold;
+}
+
+.photo{
+  align-items: center;
 }
 
 .infographic {
